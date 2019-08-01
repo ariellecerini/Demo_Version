@@ -1,0 +1,11 @@
+const primaryStart = '#000';//color is used in gradient at top
+const primaryEnd = '#fff';//color used at the bottom of gradient
+export const primaryGradientArray = [primaryStart, primaryEnd];
+export const lightWhite = '#00fbff';
+export const inputPlaceholder = '#f1a895';
+export const lighterWhite = '#eaff00'; //color is used for header (labels) text and icons i.e. trash
+export const circleInactive = '#ecbfbe';
+export const circleActive = '#90ee90';
+export const itemListText = '#555555';
+export const itemListTextStrike = '#c4c4cc';
+export const deleteIconColor = '#bc2e4c';
